@@ -2,6 +2,24 @@
 
 This repo contains the supported code and configuration files to reproduce object detection results of [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf). It is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
 
+## Environment (for a machine with RTX2080TI): 
+mmcv-full==1.3.3
+mmdet==2.11.0
+cudatoolkit==10.1
+mmpycocotools==12.0.3 
+ninja==1.10.2
+pytorch==1.7.1
+torchvision==0.8.2
+
+
+
+
+
+
+
+
+
+
 ## Updates
 
 ***04/12/2021*** Initial commits
